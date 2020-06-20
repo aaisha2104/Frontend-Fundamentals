@@ -9,11 +9,11 @@ For this project you should:
 
 For extra credit, use one or more of these tags (if you haven't already):
 
-1. <video>
-2. <audio>
-3. <form>
-4. <select>
-5. <input>
-6. <base>
-7. <meta>
-8. <iframe>
+1.<video>
+2.<audio>
+3.<form>
+4.<select>
+5.<input>
+6.<base>
+7.<meta>
+8.<iframe>
